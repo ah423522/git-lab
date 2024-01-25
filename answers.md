@@ -70,4 +70,4 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 --------------------------------------------------------------------
 Answer 12) Yes
 --------------------------------------------------------------------
-Answer 13)  ..  git-lab	Labs
+Answer 13) . ..  git-lab	Labs
